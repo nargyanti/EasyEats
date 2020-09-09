@@ -1,0 +1,30 @@
+{
+  "name": "restaurant-menu",
+  "version": "1.0.0",
+  "description": "Create restaurant menu for submission in Dicoding",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.prod.js",
+    "start-dev": "webpack-dev-server --config webpack.dev.js"
+  },
+  "author": "nargyanti <nargyanti@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.2.1",
+    "html-loader": "^1.2.0",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-merge": "^5.1.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
