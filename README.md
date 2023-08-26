@@ -10,6 +10,15 @@ This project is a submission for the [Belajar Fundamental Front-End Web Developm
 - Search by Keyword: Search for meals based on keywords and find recipes that match your preferences.
 - Detailed Recipes: Explore detailed recipes with ingredients and step-by-step instructions.
 
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Bootstrap 4
+- jQuery
+- Webpack
+
 ## Getting Started
 
 Follow these steps to get the project up and running on your local machine.
